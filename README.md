@@ -1,1 +1,1 @@
-# Practice-of-Javascript-Bacis
+# Practice-of-Javascript-Basic
