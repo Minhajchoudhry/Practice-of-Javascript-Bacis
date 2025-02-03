@@ -1,6 +1,6 @@
 //Taking a number n as a input from user. Creating an array of number from 1 to n.
 //Using the reduce method to calculate sum of all number in the array.
-// let n = prompt("Enter a number: ");
+ let n = prompt("Enter a number: ");
 
  let arr = [];
 
